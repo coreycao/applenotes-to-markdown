@@ -1,0 +1,7 @@
+# Environments
+.venv/
+
+# Cache and storage
+note_output/
+
+.DS_Store
